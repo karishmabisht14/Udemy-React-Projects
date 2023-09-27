@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+eat-n-split/node_modules/
 pizza-menu/node_modules/
 steps/node_modules/
 travel-list/node_modules/
@@ -9,13 +10,15 @@ travel-list/node_modules/
 
 # testing
 /coverage
-/pizz-menu/coverage
+/eat-n-split/coverage
+/pizza-menu/coverage
 /steps/coverage
 /travel-list/coverage
 
 # production
 /build
-/pizz-menu/build
+/eat-n-split/build
+/pizza-menu/build
 /steps/build
 /travel-list/build
 
